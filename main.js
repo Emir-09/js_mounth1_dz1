@@ -13,3 +13,5 @@ switch (lang) {
     default:
         alert('ERROR')
 }
+
+alert('hello')
